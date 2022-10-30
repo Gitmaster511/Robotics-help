@@ -2,7 +2,10 @@ Data types are the types of data
 
 
 
-### int is the most common data type, it is used for 
+### Int
+- Can store up to 9-10 digits
+- Number up to 2,147,483,647
+- INTEGER is not the same thing (please don't use it)
 ```
 int a = 5
 ```

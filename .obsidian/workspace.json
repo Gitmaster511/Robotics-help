@@ -11,12 +11,8 @@
             "id": "d5e313fdd9971dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing auto git backup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing auto git backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing auto git backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testing auto git backup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5e313fdd9971dea",
+  "active": "98e81a3200a98b6e",
   "lastOpenFiles": []
 }

@@ -1,5 +1,4 @@
-Data types are the types of data
-
+Data types are the types of data ???
 
 
 ### Int
@@ -8,4 +7,6 @@ Data types are the types of data
 - INTEGER is not the same thing (please don't use it)
 ```
 int a = 5
+
+# This is assaigning 
 ```
